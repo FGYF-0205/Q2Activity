@@ -1,0 +1,56 @@
+h1{
+  font-family: Consolas;
+  color: #D996FF;
+  text-decoration: underline;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+P{
+  text-indent: 25px;
+  color: white;
+}
+span{
+  font-variant: small-caps;
+  color: #FF65F2;
+  font-weight: bold;
+}
+#external{
+  text-shadow: 2px 5px 5px #FDFF8F;
+  color: white;
+}
+#description{
+  text-shadow: 2px 5px 5px #FF6269;
+  color: white;
+}
+body{
+  background-color:#4496EC;
+}
+img{
+  border-style: solid;
+  border-color: #44E1EC;
+  border-width: 4px;
+  float: right;
+}
+link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
