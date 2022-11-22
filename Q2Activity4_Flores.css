@@ -1,0 +1,48 @@
+body{
+  border-style: solid;
+  border-color: #63F5FF;
+  border-width: 5px;
+}
+
+.Div1{
+  background-color: #C798FF;
+  padding: 5px 5.5px 5px;
+  margin: auto;
+}
+.Photo{
+  background-color: #61A3FF;
+  padding: 2.5px 2.5px 2.5px;
+  margin: auto;
+}
+.Div2{
+  background-color: #FF6363;
+  padding: 5px 5.5px 5px;
+}
+h1{
+  font-family: Courier New;
+  color: #FFF78A;
+  text-shadow: #8AFF9F 2px 2px;
+}
+link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
