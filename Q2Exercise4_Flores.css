@@ -1,0 +1,27 @@
+img{
+  height: 300px;
+  padding: 15px;
+  border-radius: 200px;
+  width: 300px;
+  opacity: .55;
+}
+img:hover{
+  opacity: 1;
+}
+body{
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: Courier New;
+}
+p{
+  font-
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+  text-transform: uppercase;
+  letter-spacing: 12px;
+}
